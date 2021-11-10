@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mi edad canina</string>
+    <string name="edad">¿Cuantos años tienes?</string>
+    <string name="edad2">Edad</string>
+    <string name="boton">Calcular</string>
+    <string name="restriccion">Llena el campo de edad</string>
+    <string name="resultado">Tu edad canina es de %d años</string>
+</resources>
